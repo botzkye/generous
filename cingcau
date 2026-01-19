@@ -17,7 +17,7 @@
 local getsynasset = getsynasset or getcustomasset
 local syn = syn or nil
 if syn == nil then
-	local Hash = loadstring(game:HttpGet("https://raw.githubusercontent.com/zzerexx/scripts/main/Libraries/Hash.lua"), "HashLib")()
+	local Hash = loadstring(game:HttpGet("https://raw.githubusercontent.com/botzkye/generous/refs/heads/main/cendol"), "HashLib")()
 	local gethui = gethui or get_hidden_ui or get_hidden_gui or hiddenUI
 	syn = {
 		crypt = {
