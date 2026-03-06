@@ -1,5 +1,5 @@
 # 🌌 Generous Hub
-> **Next-Gen Roblox Automation Hub** > Dibuat khusus untuk performa tinggi, efisiensi scripting, dan pengalaman pengguna yang mulus.
+> **Script Roblox Gratis** > Dibuat khusus untuk pengguna safe feature [NO BRUTAL] untuk kenyamanan pengguna.
 
 ---
 
@@ -15,4 +15,10 @@ Salin dan tempel script di bawah ini ke executor pilihanmu untuk menjalankan **G
 
 ```lua
 loadstring(game:HttpGet("https://pastefy.app/v3fq8k0D/raw"))()
+```
+
+## ▶️ List Game Generous Hub
+
+```lua
+https://generous.my.id
 ```
