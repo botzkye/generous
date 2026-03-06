@@ -16,7 +16,7 @@ Salin dan tempel script di bawah ini ke executor pilihanmu untuk menjalankan **G
 ```lua
 loadstring(game:HttpGet("[https://pastefy.app/v3fq8k0D/raw](https://pastefy.app/v3fq8k0D/raw)"))()
 ```
-✨ Key Features
+* **✨ Key Features**
 Safe Teleport System: Menggunakan Locked-Y Platform agar karakter tetap stabil di atas permukaan air/objek (Anti-Nyemplung).
 
 Dynamic Object Finder: Algoritma pencarian cerdas untuk mendeteksi item seperti BlackHole atau Megalodon secara otomatis meskipun index folder ([65]) berubah.
