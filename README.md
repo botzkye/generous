@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Quick Start Universal Game
-Copy and Paste in your executor **Generous Hub**:
+Copy and Paste in your executor **Just Support Executor UNC SUNC 95++**:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/botzkye/generous/refs/heads/main/loader.lua"))()
