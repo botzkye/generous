@@ -3,15 +3,8 @@
 
 ---
 
-## 🛠️ Loader Fishit Information
-* **Current Version:** `0.1.2`
-* **Developer:** Solo Developer (Generous Community)
-* **Status:** 🟢 Undetected & Optimized
-
----
-
 ## 🛠️ Loader Universal Information
-* **Current Version:** `0.0.4`
+* **Current Version:** `0.0.5`
 * **Developer:** Solo Developer (Generous Community)
 * **Status:** 🟢 Undetected & Optimized
 
