@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Quick Start Universal Game
-Salin dan tempel script di bawah ini ke executor pilihanmu untuk menjalankan **Generous Hub**:
+Copy and Paste in your executor **Generous Hub**:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/botzkye/generous/refs/heads/main/loader.lua"))()
