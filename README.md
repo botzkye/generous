@@ -4,8 +4,8 @@
 ---
 
 ## 🛠️ Loader Universal Information
-* **Current Version:** `0.0.5`
-* **Last Update:** `16-06-2026`
+* **Current Version:** `0.0.6`
+* **Last Update:** `7-29-2026`
 * **Developer:** Solo Developer (Generous Community)
 * **Status:** 🟢 Undetected & Optimized
 
